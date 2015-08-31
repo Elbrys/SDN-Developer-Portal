@@ -1,2 +1,1 @@
-# SDN-Developer-Portal
-Resources for users of the SDN-Developer-Portal
+*MOVED* to https://github.com/Elbrys/SDN-Developer-Lab
